@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{BB7BC061-5F76-4661-8E5D-D446ACCF48C1}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Program.cs" Line="16" Column="10" />
+      <File FileName="Shape.cs" />
+      <File FileName="Drawing.cs" />
+      <File FileName="MyRectangle.cs" />
+      <File FileName="MyCircle.cs" />
+      <File FileName="MyLine.cs" />
+      <File FileName="ExtensionMethods.cs" />
+      <File FileName="lib/SplashKit.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ShapeDrawer" expanded="True">
+            <Node name="ShapeDrawer" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ShapeDrawer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders>
+    <String>/Users/rohansoni/Documents/CSharpCode</String>
+  </Debugger.DebugSourceFolders>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
